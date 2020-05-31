@@ -1,0 +1,14 @@
+D:\Microsoft Visual Studio\2019\Proyectos\Logs\EjemploLogs\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\Microsoft Visual Studio\2019\Proyectos\Logs\EjemploLogs\bin\Debug\netcoreapp2.0\appsettings.json
+D:\Microsoft Visual Studio\2019\Proyectos\Logs\EjemploLogs\bin\Debug\netcoreapp2.0\bundleconfig.json
+D:\Microsoft Visual Studio\2019\Proyectos\Logs\EjemploLogs\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+D:\Microsoft Visual Studio\2019\Proyectos\Logs\EjemploLogs\bin\Debug\netcoreapp2.0\EjemploLogs.deps.json
+D:\Microsoft Visual Studio\2019\Proyectos\Logs\EjemploLogs\bin\Debug\netcoreapp2.0\EjemploLogs.runtimeconfig.json
+D:\Microsoft Visual Studio\2019\Proyectos\Logs\EjemploLogs\bin\Debug\netcoreapp2.0\EjemploLogs.runtimeconfig.dev.json
+D:\Microsoft Visual Studio\2019\Proyectos\Logs\EjemploLogs\bin\Debug\netcoreapp2.0\EjemploLogs.dll
+D:\Microsoft Visual Studio\2019\Proyectos\Logs\EjemploLogs\bin\Debug\netcoreapp2.0\EjemploLogs.pdb
+D:\Microsoft Visual Studio\2019\Proyectos\Logs\EjemploLogs\obj\Debug\netcoreapp2.0\EjemploLogs.csprojAssemblyReference.cache
+D:\Microsoft Visual Studio\2019\Proyectos\Logs\EjemploLogs\obj\Debug\netcoreapp2.0\EjemploLogs.AssemblyInfoInputs.cache
+D:\Microsoft Visual Studio\2019\Proyectos\Logs\EjemploLogs\obj\Debug\netcoreapp2.0\EjemploLogs.AssemblyInfo.cs
+D:\Microsoft Visual Studio\2019\Proyectos\Logs\EjemploLogs\obj\Debug\netcoreapp2.0\EjemploLogs.dll
+D:\Microsoft Visual Studio\2019\Proyectos\Logs\EjemploLogs\obj\Debug\netcoreapp2.0\EjemploLogs.pdb

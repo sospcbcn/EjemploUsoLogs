@@ -1,2 +1,5 @@
-# EjemploUsoLogs
-Proyecto Genérico en el que se genera una estructura para guardar logs. Esto puede aplicarse a cualquier otro proyecto que requiera el uso de Logs para su supervisión y detección de errores, a la práctica se tiene que usar en cualquier proyecto.
+# Ejemplo de uso de logs en ASP.NET Core 2
+
+En este repositorio encontrarás un ejemplo de cómo utilizar logs en ASP.NET CORE 2.
+
+En el AppStart también encontrarás una configuración para una librería de terceros para escribir mensajes de los en archivos de texto y base de datos.
